@@ -74,7 +74,7 @@ Daniel Olson:
 Outline:
 
 
-Edilene Cruz: Habitica(and maybe others productivity apps)
+Edilene Cruz:
 
 Outline:
 
@@ -146,7 +146,7 @@ Outline:
 
 
 
-Spencer Carter:
+Spencer Carter: History of Garden Gnomes
 
 Outline:
 
