@@ -95,8 +95,8 @@
 
 * URL Lockbox Github Repo Link:https://github.com/scmountain/M4-Final
 * URL Lockbox Production Link:https://desolate-mesa-75861.herokuapp.com/signup
-* Hot Reads Github Repo Link:
-* Hot Reads Production Link:
+* Hot Reads Github Repo Link:https://url-locken-boxen.herokuapp.com/
+* Hot Reads Production Link:https://hawt-reads.herokuapp.com/
 
 ## Valerie Trudell
 
